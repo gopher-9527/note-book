@@ -1,0 +1,22 @@
+# roadmap
+- [ ] 编程语言
+    - [ ] go
+        - [ ] goroutine调度
+        - [ ] channel
+        - [ ] select
+        - [ ] 垃圾回收
+        - [ ] 内存分配
+- [ ] 数据库
+- [ ] 网络
+- [ ] 操作系统
+- [ ] 云原生
+    - [ ] 云原生开发
+        - [ ] client-go
+            - [ ] informer
+            - [ ] indexer
+            - [ ] reflector
+        - [ ] CRD开发
+        - [ ] operator开发
+    - [ ] 云原生组件
+        - [ ] kubernetes
+        - [ ] 
