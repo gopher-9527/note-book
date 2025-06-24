@@ -27,3 +27,8 @@ git remote set-url origin git@github-1:xxx/repo.git
 ```
 
 完成上述的配置之后，就可以在本地使用不同的帐号对不同的项目进行修改和提交了。
+
+ps: **可以手动指定git使用的ssh key**
+```sh
+GIT_SSH_COMMAND='ssh -i ~/.ssh/id_rsa_gopher9527' git push --set-upstream origin main
+```
